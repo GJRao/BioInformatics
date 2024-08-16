@@ -1,4 +1,4 @@
-1. Rao, G. J., & Prasad, A. S. (2024). Classification of gene expression from RNA-seq data for pancreatic cancer prognosis using ensemble learning. J App Biol Biotech. doi, 10.
+1. Rao GJ, Prasad AS. Classification of gene expression from RNA-seq data for pancreatic cancer prognosis using ensemble learning. J App Biol Biotech. 2024;12(3):45-53. http://doi.org/10.7324/JABB.2024.171755
 
 bibtex:
 
@@ -10,7 +10,7 @@ bibtex:
   year={2024}
 }
 
-2. JagadeeswaraRao, G., & Sivaprasad, A. (2024). An integrated ensemble learning technique for gene expression classification and biomarker identification from RNA-seq data for pancreatic cancer prognosis. International Journal of Information Technology, 16(3), 1505-1516.
+2. JagadeeswaraRao, G., Sivaprasad, A. An integrated ensemble learning technique for gene expression classification and biomarker identification from RNA-seq data for pancreatic cancer prognosis. Int. j. inf. tecnol. 16, 1505–1516 (2024). https://doi.org/10.1007/s41870-023-01688-8
 
 bibtex:
 
@@ -26,7 +26,7 @@ bibtex:
 }
 
 
-3. JagadeeswaraRao, G., & SivaPrasad, A. Identification of potential biomarkers for pancreatic ductal adenocarcinoma: a bioinformatics analysis. Computer methods in biomechanics and biomedical engineering, 1-15.
+3. G J, A S. Identification of potential biomarkers for pancreatic ductal adenocarcinoma: a bioinformatics analysis. Comput Methods Biomech Biomed Engin. 2024 May 21:1-15. doi: 10.1080/10255842.2024.2356648. Epub ahead of print. PMID: 38773913.
 
 Bibtex:
 
